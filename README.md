@@ -1,2 +1,1 @@
-# cs231n_self_homework
-# prictice
+计算机视觉识别
